@@ -77,7 +77,6 @@ Ship as a **Docker Space**: API + static Next export or two processes. Keep tile
 ## License
 
 Personal portfolio. Demo credentials are public on purpose.
-<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/fa39ce32-85c6-4091-9a54-1f937e05331b" />
 
 <img width="1364" height="691" alt="image" src="https://github.com/user-attachments/assets/6b0f60b4-fe89-49d5-80c3-faac2123b5e5" />
 
