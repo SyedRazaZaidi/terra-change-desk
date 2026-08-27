@@ -1,0 +1,15 @@
+.git
+.venv
+venv
+node_modules
+.next
+.pytest_cache
+__pycache__
+*.db
+*.db-journal
+.env
+.env.local
+.cursor
+.idea
+.vscode
+**/*.log
